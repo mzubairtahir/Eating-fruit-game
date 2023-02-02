@@ -5,7 +5,7 @@
 <ul>
   <li>:video_game: The game features a score system that keeps track of your current score.</li>
   <li>:art: Allows you to change the color of the snake through the menu option, customizing your gaming experience.</li>
-  <li>:arrow_upper_right: Easy to play, use the arrow keys to move the snake and eat as many fruits as possible before time runs out.</li>
+  <li>:arrow_upper_right: Easy to play, use the arrow keys to move the snake and eat as many fruits as possible before game over.</li>
 </ul>
 <p>The code is open-source and available for anyone to view, contribute to, or download. If you find any bugs or have any suggestions for improvements, please feel free to open an issue on the repository or submit a pull request.</p>
 <h2>Thank you</h2>
